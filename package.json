@@ -1,0 +1,28 @@
+{
+  "name": "hanaquery",
+  "version": "1.0.0",
+  "description": "Query Hana Entities",
+  "main": "index.js",
+  "dependencies": {
+    "@sap/hana-client": "^2.4.167"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaw1236/hanaquery.git"
+  },
+  "keywords": [
+    "Hana",
+    "SQL",
+    "Query"
+  ],
+  "author": "Simon Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaw1236/hanaquery/issues"
+  },
+  "homepage": "https://github.com/shaw1236/hanaquery#readme"
+}
